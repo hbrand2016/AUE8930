@@ -1,0 +1,12 @@
+Download catkin workspace gaitech_ws
+
+Run catkin_make in the root directory of the workspace to build the rosnodes.
+
+For running turtle simulator wanderer:
+rosrun gaitech free_space_navigation.py
+
+or 
+
+python free_space_navigation.py
+
+after launching turtlebot_gazebo

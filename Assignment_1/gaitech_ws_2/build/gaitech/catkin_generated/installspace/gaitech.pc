@@ -1,0 +1,8 @@
+prefix=/home/howieb/gaitech_ws/install
+
+Name: gaitech
+Description: Description of gaitech
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/howieb/gaitech_ws/install/lib 
+Requires: 

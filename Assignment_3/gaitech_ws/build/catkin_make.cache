@@ -1,0 +1,2 @@
+gaitech
+-DCATKIN_DEVEL_PREFIX=/home/howieb/gaitech_ws/devel -DCMAKE_INSTALL_PREFIX=/home/howieb/gaitech_ws/install -G Unix Makefiles

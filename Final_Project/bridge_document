@@ -1,0 +1,10 @@
+bridge_document
+ubiquiti connection name: Wired connection 1
+ubiquiti ip:192.168.1.8
+ubitquiti gateway: 192.168.1.7
+
+Hokuyo connection name: Hokuyo
+Hokuyo ip:192.168.1.89
+Hokuyo gateway: 192.168.1.90
+Hokuyo Lidar sensor ip:192.168.1.88
+

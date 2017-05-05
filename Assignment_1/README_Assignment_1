@@ -1,0 +1,10 @@
+Download catkin workspace gaitech_ws
+
+Run catkin_make in the root directory of the workspace to build the rosnodes.
+
+For running turtle simulator cleaner:
+rosrun gaitech robot_cleanear_node
+
+
+For running turtlebot gazebo cleaner:
+rosrun gaitech robot_cleanear_node_tbot
